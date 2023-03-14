@@ -5,7 +5,8 @@ Here are some ideas to get you started:-->
 
 
 <h2 align="center">Hi there 👋</h2>
-<h2 align="center">Menulis untuk Keabadian</h2>
+<h2 align="center">Know me as <bold>Handie<bold></h2>
+<h4 align="center">"Menulis untuk Keabadian"</h4>
 
 - 🌱 I’m currently learning Flutter n Laravel
 - 📫 How to reach me: @saya_handie
