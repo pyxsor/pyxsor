@@ -12,7 +12,8 @@ Here are some ideas to get you started:-->
   <a href="https://leeyurani.com/">
     <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=pyxsor" />
     &nbsp;
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pyxsor&theme=gruvbox&hide_border=true" />
+
+[//]: # (    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pyxsor&theme=gruvbox&hide_border=true" />)
   </a>
 </p>
 
