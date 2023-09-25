@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 <h4 align="center">"Menulis untuk Keabadian"</h4>
 
 <p align="center">
-  <a href="https://github.com/pyxsor">
+  <a>
     <img src="https://github-contribution-stats.vercel.app/api/?username=pyxsor" />
   </a>
 </p>
