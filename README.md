@@ -18,10 +18,12 @@ Here are some ideas to get you started:-->
 ![](http://img.shields.io/badge/-TypeScript-white?logo=typescript&style=flat&logoColor=white&color=3178C6)
 ![](http://img.shields.io/badge/-PHP-white?logo=php&style=flat&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/-Vue.js-white?logo=vuedotjs&style=flat&logoColor=white&color=4FC08D)
+<br/>
 ![](https://img.shields.io/badge/-Nuxt.js-white?logo=nuxtdotjs&style=flat&logoColor=white&color=00DC82)
 ![](http://img.shields.io/badge/-React-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-React%20Native-white?logo=react&style=flat&logoColor=black&color=61DAFB)
 ![](http://img.shields.io/badge/-Next.js-white?logo=next.js&style=flat&logoColor=white&color=000000)
+<br/>
 ![](https://img.shields.io/badge/-Laravel-white?logo=laravel&style=flat&logoColor=white&color=FF2D20)
 ![](https://img.shields.io/badge/-Flutter-white?logo=flutter&style=flat&logoColor=white&color=02569B)
 ![](http://img.shields.io/badge/-PostgreSQL-white?logo=postgresql&style=flat&logoColor=white&color=4169E1)
